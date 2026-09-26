@@ -57,8 +57,6 @@
             - generic [ref=e84]: Fast Learner
             - generic [ref=e85]: Detail-Oriented
         - generic [ref=e86]:
-          - link "9629230948" [ref=e93] [cursor=pointer]:
-            - /url: tel:9629230948
           - link "razhmikaj@gmail.com" [ref=e101] [cursor=pointer]:
             - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
           - paragraph [ref=e109]: Vedharanyam, Nagapattinam, Tamil Nadu – 614809
@@ -224,10 +222,6 @@
             - paragraph [ref=e360]: Email
             - link "razhmikaj@gmail.com" [ref=e361] [cursor=pointer]:
               - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
-          - generic [ref=e363]:
-            - paragraph [ref=e367]: Phone
-            - link "9629230948" [ref=e368] [cursor=pointer]:
-              - /url: tel:9629230948
           - generic [ref=e370]:
             - paragraph [ref=e375]: Location
             - paragraph [ref=e376]: Vedharanyam, Nagapattinam, Tamil Nadu – 614809

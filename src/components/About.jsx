@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { User, MapPin, Mail, Phone, Sparkles, CheckCircle2 } from 'lucide-react';
+import { User, MapPin, Mail, Sparkles, CheckCircle2 } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './Icons';
 import { gmailComposeUrl, personalInfo, quickStats } from '../data/portfolio';
 
@@ -132,12 +132,6 @@ export default function About() {
                       <Mail size={15} className="text-emerald-400" />
                       <a href={gmailComposeUrl()} target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-white transition-colors truncate">
                         {personalInfo.email}
-                      </a>
-                    </div>
-                    <div className="flex items-center gap-3 p-2 rounded-lg bg-white/[0.02] border border-white/[0.05]">
-                      <Phone size={15} className="text-teal-400" />
-                      <a href={`tel:${personalInfo.phone}`} className="text-slate-300 hover:text-white transition-colors">
-                        +91 {personalInfo.phone}
                       </a>
                     </div>
                     <div className="flex items-center gap-3 p-2 rounded-lg bg-white/[0.02] border border-white/[0.05]">

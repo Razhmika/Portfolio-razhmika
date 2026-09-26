@@ -6,7 +6,6 @@ export const personalInfo = {
   tagline: "3rd Year B.Tech IT Student · Java Developer · Manual Testing Enthusiast",
   about:
     "I am a 3rd-year B.Tech Information Technology student at KGISL Institute of Technology with a strong passion for Java backend development, relational database systems, and meticulous manual software testing. Experienced in building robust object-oriented applications, crafting comprehensive test suites, identifying edge-case defects, and developing responsive web interfaces. Currently seeking internship and collaborative opportunities where I can apply my engineering mindset to ship reliable software.",
-  phone: "9629230948",
   email: "razhmikaj@gmail.com",
   address: "Vedharanyam, Nagapattinam, Tamil Nadu – 614809",
   linkedin: "https://www.linkedin.com/in/razhmika-jayakrishnan-851572351",

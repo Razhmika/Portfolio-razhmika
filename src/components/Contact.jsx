@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Phone, MapPin, Send, Copy, Check, ArrowUpRight, MessageSquare } from 'lucide-react';
+import { Mail, MapPin, Send, Copy, Check, ArrowUpRight, MessageSquare } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './Icons';
 import { gmailComposeUrl, personalInfo } from '../data/portfolio';
 
@@ -30,13 +30,6 @@ export default function Contact() {
       value: personalInfo.email,
       href: gmailComposeUrl(),
       action: 'Send an Email',
-    },
-    {
-      icon: Phone,
-      label: 'Direct Phone',
-      value: `+91 ${personalInfo.phone}`,
-      href: `tel:${personalInfo.phone}`,
-      action: 'Call Directly',
     },
     {
       icon: MapPin,
@@ -75,7 +68,7 @@ export default function Contact() {
 
           <div className="max-w-4xl mx-auto">
             {/* Quick Contact Cards */}
-            <motion.div variants={stagger} className="grid sm:grid-cols-3 gap-5 mb-8">
+            <motion.div variants={stagger} className="grid sm:grid-cols-2 gap-5 mb-8">
               {contactItems.map(({ icon: Icon, label, value, href, action }) => (
                 <motion.div key={label} variants={fadeUp}>
                   <div className="bento-card group flex flex-col justify-between h-full text-center">
