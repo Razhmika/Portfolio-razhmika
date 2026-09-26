@@ -1,0 +1,259 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "RJ./portfolio" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e8]:
+        - button "About" [ref=e9] [cursor=pointer]
+        - button "Skills" [ref=e10] [cursor=pointer]
+        - button "Education" [ref=e11] [cursor=pointer]
+        - button "Projects" [ref=e12] [cursor=pointer]
+        - button "Achievements" [ref=e13] [cursor=pointer]
+        - button "Contact" [ref=e14] [cursor=pointer]
+      - link "Hire Me" [ref=e15] [cursor=pointer]:
+        - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Available for opportunities
+          - heading "Razhmika Jayakrishnan" [level=1] [ref=e24]
+          - paragraph [ref=e25]: B.Tech IT Student · Full Stack Developer Aspirant · QA Enthusiast
+          - paragraph [ref=e26]: I am building the web one component at a time while mastering full-stack development and software quality assurance. Currently in my 2nd year at KGISL Institute of Technology.
+          - generic [ref=e27]:
+            - link "View My Work" [ref=e28] [cursor=pointer]:
+              - /url: "#projects"
+            - link "Get In Touch" [ref=e29] [cursor=pointer]:
+              - /url: "#contact"
+          - generic [ref=e33]:
+            - generic [ref=e34]: Connect
+            - generic [ref=e36]:
+              - link "GitHub" [ref=e37] [cursor=pointer]:
+                - /url: https://github.com/Razhmika
+              - link "LinkedIn" [ref=e40] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/razhmika-jayakrishnan-851572351
+              - link "Email" [ref=e43] [cursor=pointer]:
+                - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+        - generic [ref=e48]:
+          - img "Razhmika Jayakrishnan" [ref=e52]
+          - generic [ref=e53]:
+            - paragraph [ref=e54]: B.Tech IT
+            - paragraph [ref=e55]: KGISL
+          - generic [ref=e56]:
+            - paragraph [ref=e57]: Status
+            - paragraph [ref=e58]: Open to Work
+      - generic [ref=e59]: scroll
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic [ref=e67]: About Me
+        - heading "The person behind the code" [level=2] [ref=e70]
+      - generic [ref=e71]:
+        - generic [ref=e73]:
+          - heading "Who I Am" [level=3] [ref=e79]
+          - paragraph [ref=e80]: B.Tech IT student aspiring to become a Full Stack Developer with a strong foundation in Software Testing. Skilled in HTML, CSS, JavaScript, React, Java, and MySQL, with a passion for building reliable and user-friendly applications. Currently developing expertise in both software development and testing to understand the complete software development lifecycle.
+          - generic [ref=e81]:
+            - generic [ref=e82]: Problem Solver
+            - generic [ref=e83]: Team Player
+            - generic [ref=e84]: Fast Learner
+            - generic [ref=e85]: Detail-Oriented
+        - generic [ref=e86]:
+          - link "9629230948" [ref=e93] [cursor=pointer]:
+            - /url: tel:9629230948
+          - link "razhmikaj@gmail.com" [ref=e101] [cursor=pointer]:
+            - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+          - paragraph [ref=e109]: Vedharanyam, Nagapattinam, Tamil Nadu – 614809
+          - generic [ref=e110]:
+            - paragraph [ref=e111]: Find me online
+            - generic [ref=e112]:
+              - link "GitHub" [ref=e113] [cursor=pointer]:
+                - /url: https://github.com/Razhmika
+              - link "LinkedIn" [ref=e116] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/razhmika-jayakrishnan-851572351
+    - generic [ref=e121]:
+      - generic [ref=e122]:
+        - generic [ref=e123]: Skills
+        - heading "My Tech Stack" [level=2] [ref=e126]
+        - paragraph [ref=e127]: Technologies and tools I work with
+      - generic [ref=e128]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e132]: 🌐
+            - heading "Frontend" [level=3] [ref=e133]
+          - generic [ref=e134]:
+            - generic [ref=e135]: HTML5
+            - generic [ref=e136]: CSS3
+            - generic [ref=e137]: JavaScript
+            - generic [ref=e138]: React
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e142]: ⚙️
+            - heading "Backend" [level=3] [ref=e143]
+          - generic [ref=e144]: Java
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]: 🗄️
+            - heading "Database" [level=3] [ref=e150]
+          - generic [ref=e151]: MySQL
+        - generic [ref=e154]:
+          - generic [ref=e155]:
+            - generic [ref=e156]: 🧪
+            - heading "Testing / QA" [level=3] [ref=e157]
+          - generic [ref=e158]:
+            - generic [ref=e159]: Manual Testing
+            - generic [ref=e160]: Software QA
+      - paragraph [ref=e162]: Actively learning — React advanced patterns, Java Spring, REST API design & Software Testing methodologies
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - generic [ref=e167]: Education
+        - heading "Academic Journey" [level=2] [ref=e170]
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - heading "B.Tech – Information Technology" [level=3] [ref=e181]
+            - paragraph [ref=e182]: KGISL Institute of Technology
+          - generic [ref=e183]:
+            - generic [ref=e184]: 2024 – 2028
+            - generic [ref=e187]: 2nd Year
+        - paragraph [ref=e190]: Currently in my second year of B.Tech IT, building a strong foundation in software engineering, data structures, databases, and software development methodologies.
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - paragraph [ref=e193]: Department
+            - paragraph [ref=e194]: Information Technology
+          - generic [ref=e195]:
+            - paragraph [ref=e196]: Mode
+            - paragraph [ref=e197]: Full Time
+          - generic [ref=e198]:
+            - paragraph [ref=e199]: Status
+            - paragraph [ref=e200]: Currently Enrolled
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - generic [ref=e205]: Projects
+        - heading "Things I've Built" [level=2] [ref=e208]
+        - paragraph [ref=e209]: Projects that showcase my skills and creativity
+      - generic [ref=e210]:
+        - generic [ref=e212]:
+          - generic [ref=e213]: 📦
+          - generic [ref=e218]:
+            - heading "Stock Tracking & Vendor Management System" [level=3] [ref=e219]
+            - paragraph [ref=e220]: A comprehensive system for tracking stock levels in real time and managing vendor relationships, enabling efficient inventory control and supply chain visibility.
+            - generic [ref=e221]:
+              - generic [ref=e222]: Java
+              - generic [ref=e223]: MySQL
+              - generic [ref=e224]: Backend
+              - generic [ref=e225]: Management System
+            - link "Code" [ref=e227] [cursor=pointer]:
+              - /url: https://github.com/Razhmika
+        - generic [ref=e231]:
+          - generic [ref=e232]: 🎟️
+          - generic [ref=e237]:
+            - heading "Event Booking Management System" [level=3] [ref=e238]
+            - paragraph [ref=e239]: A web-based platform to streamline event scheduling, booking, and management — allowing users to register for events and organizers to track attendance.
+            - generic [ref=e240]:
+              - generic [ref=e241]: HTML
+              - generic [ref=e242]: CSS
+              - generic [ref=e243]: JavaScript
+              - generic [ref=e244]: MySQL
+            - link "Code" [ref=e246] [cursor=pointer]:
+              - /url: https://github.com/Razhmika
+        - generic [ref=e250]:
+          - generic [ref=e251]: 🎵
+          - generic [ref=e256]:
+            - heading "Music Playlist Management System" [level=3] [ref=e257]
+            - paragraph [ref=e258]: A Java mini project implementing core playlist operations — add, remove, search, and shuffle songs — using object-oriented design principles and data structures.
+            - generic [ref=e259]:
+              - generic [ref=e260]: Java
+              - generic [ref=e261]: OOP
+              - generic [ref=e262]: Data Structures
+              - generic [ref=e263]: Mini Project
+            - link "Code" [ref=e265] [cursor=pointer]:
+              - /url: https://github.com/Razhmika
+      - link "See all projects on GitHub" [ref=e269] [cursor=pointer]:
+        - /url: https://github.com/Razhmika
+    - generic [ref=e274]:
+      - generic [ref=e275]:
+        - generic [ref=e276]: Achievements
+        - heading "Milestones & Certificates" [level=2] [ref=e279]
+        - paragraph [ref=e280]: Recognitions and accomplishments along the way
+      - generic [ref=e281]:
+        - generic [ref=e283]:
+          - generic [ref=e285]: 🏆
+          - heading "CodeAlpha Certification" [level=3] [ref=e286]
+          - paragraph [ref=e287]: Completed a professional certification from CodeAlpha and received a Letter of Recommendation for outstanding performance and contribution.
+          - generic [ref=e288]: Certified
+        - generic [ref=e292]:
+          - generic [ref=e294]: 🛡️
+          - heading "Cybersecurity Paper Presentation" [level=3] [ref=e295]
+          - paragraph [ref=e296]: Presented a technical paper on "Cybersecurity and Its Importance" and received a Paper Presentation Certificate for the work.
+          - generic [ref=e297]: Certified
+        - generic [ref=e301]:
+          - generic [ref=e303]: 🌐
+          - heading "RABSH-25 International Conference" [level=3] [ref=e304]
+          - paragraph [ref=e305]: Participated in the International Conference (RABSH-25) and received a certificate for presenting an abstract on the Runge-Kutta Method.
+          - generic [ref=e306]: Certified
+    - generic [ref=e311]:
+      - generic [ref=e312]:
+        - generic [ref=e313]: Languages
+        - heading "Languages I Speak" [level=2] [ref=e316]
+      - generic [ref=e317]:
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]: 🇮🇳
+            - generic [ref=e322]:
+              - heading "Tamil" [level=3] [ref=e323]
+              - paragraph [ref=e324]: Native
+          - generic [ref=e327]:
+            - generic [ref=e328]: Proficiency
+            - generic [ref=e329]: 100%
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - generic [ref=e333]: 🇬🇧
+            - generic [ref=e334]:
+              - heading "English" [level=3] [ref=e335]
+              - paragraph [ref=e336]: Proficient
+          - generic [ref=e339]:
+            - generic [ref=e340]: Proficiency
+            - generic [ref=e341]: 85%
+    - generic [ref=e344]:
+      - generic [ref=e345]:
+        - generic [ref=e346]: Contact
+        - heading "Let's Connect" [level=2] [ref=e350]
+        - paragraph [ref=e351]: Open to internships, collaborations, and exciting opportunities. Feel free to reach out!
+      - generic [ref=e352]:
+        - generic [ref=e353]:
+          - generic [ref=e355]:
+            - paragraph [ref=e360]: Email
+            - link "razhmikaj@gmail.com" [ref=e361] [cursor=pointer]:
+              - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+          - generic [ref=e363]:
+            - paragraph [ref=e367]: Phone
+            - link "9629230948" [ref=e368] [cursor=pointer]:
+              - /url: tel:9629230948
+          - generic [ref=e370]:
+            - paragraph [ref=e375]: Location
+            - paragraph [ref=e376]: Vedharanyam, Nagapattinam, Tamil Nadu – 614809
+        - generic [ref=e377]:
+          - paragraph [ref=e378]: Or find me on
+          - generic [ref=e379]:
+            - link "GitHub" [ref=e380] [cursor=pointer]:
+              - /url: https://github.com/Razhmika
+            - link "LinkedIn" [ref=e383] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/razhmika-jayakrishnan-851572351
+          - link "Send an email to razhmikaj@gmail.com" [ref=e387] [cursor=pointer]:
+            - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+            - text: Send Me an Email
+  - contentinfo [ref=e391]:
+    - generic [ref=e392]:
+      - generic [ref=e393]:
+        - generic [ref=e394]:
+          - generic [ref=e395]: RJ
+          - generic [ref=e396]: ·
+          - generic [ref=e397]: Designed & Built with
+          - generic [ref=e400]: by Razhmika Jayakrishnan
+        - generic [ref=e401]:
+          - link "GitHub" [ref=e402] [cursor=pointer]:
+            - /url: https://github.com/Razhmika
+          - link "LinkedIn" [ref=e405] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/razhmika-jayakrishnan-851572351
+          - link "Email" [ref=e408] [cursor=pointer]:
+            - /url: https://mail.google.com/mail/?view=cm&fs=1&to=razhmikaj%40gmail.com&su=Portfolio%20Enquiry%20for%20Razhmika&body=Hi%20Razhmika%2C%0A%0AI%20would%20like%20to%20connect%20with%20you.
+      - paragraph [ref=e413]: © 2026 Razhmika Jayakrishnan · All rights reserved
